@@ -1,3 +1,11 @@
+# Prerequisites
+# The following have to be created in AWS before the TF code is executed.
+# VPC
+# EFS
+# Security groups
+# key-pair for connecting to the instances
+# IAM role
+
 ###################################################
 # Create Launch template
 ###################################################
